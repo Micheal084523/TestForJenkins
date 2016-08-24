@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GetByJson</string>
+    <string name="app_name">Json数据下载</string>
     <string name="title_activity_login">登陆</string>
 
     <!-- Strings related to login -->
